@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'mysite',
         'USER': 'postgres',
         'PASSWORD': 'postgres',                  # Not used with sqlite3.
-        'HOST': 'localhost',                      # Set to empty string for localhost. Not used with sqlite3.
+        'HOST': 'localhost',                     # Set to empty string for localhost. Not used with sqlite3.
         'PORT': '5432',
     }
 }
